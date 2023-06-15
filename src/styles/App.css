@@ -1,1 +1,19 @@
+.parent{
+    background-color:rgb(149, 240, 30);
+    width: 500px;
+    height: 250px;
+    padding: 30px;
+}
 
+.child{
+    background-color: rgb(240, 92, 18);
+    width: 490px;
+    height: 130px;
+}
+.modal{
+    /* display: none; */
+    /* background-color: brown;
+    width: 530px;
+    height: 50px;
+    margin-left: 20px; */
+}
